@@ -1,0 +1,17 @@
+package ex_13042024;
+
+public class name {
+
+	public static void main(String[] args) {
+		
+
+        // name ?
+        // Non Primitive
+        String name = "Pramod";
+        System.out.println(name);
+        System.out.printf("Your name is -> %s",name);
+
+
+	}
+
+}
