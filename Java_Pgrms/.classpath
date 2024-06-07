@@ -6,5 +6,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Home_Work"/>
+	<classpathentry kind="src" path="practicing_pgrm"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
