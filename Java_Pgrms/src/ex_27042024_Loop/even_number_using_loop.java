@@ -1,4 +1,4 @@
-package ex_27042024;
+package ex_27042024_Loop;
 
 public class even_number_using_loop {
 

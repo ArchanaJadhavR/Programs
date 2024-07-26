@@ -1,4 +1,4 @@
-package ex_20042024;
+package ex_20042024_String;
 
 public class IQ02 {
 

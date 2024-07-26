@@ -1,4 +1,4 @@
-package ex_25042024;
+package ex_25042024_Switch;
 
 public class default_switch {
 

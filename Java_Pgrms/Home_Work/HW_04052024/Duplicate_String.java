@@ -22,7 +22,7 @@ public class Duplicate_String {
 			char ch = s1.charAt(i);
 			
 
-			if(s1==ch) 
+			//if(s1==ch) 
 					
 					{
 				       

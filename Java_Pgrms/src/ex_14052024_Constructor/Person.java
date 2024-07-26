@@ -1,4 +1,4 @@
-package ex_14052024_Constructor;
+ package ex_14052024_Constructor;
 
 public class Person
 {
