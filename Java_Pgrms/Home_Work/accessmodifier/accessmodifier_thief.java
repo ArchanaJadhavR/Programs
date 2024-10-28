@@ -1,6 +1,6 @@
 package accessmodifier;
 
-import ex_18052024_superthiskeyword.accessmodifier_cop;
+import ex_18052024_OOPs_superthiskeyword.accessmodifier_cop;
 
 public class accessmodifier_thief
 {
